@@ -12,3 +12,6 @@ readme = "README.md"
 requires-python = ">=3.8"
 license = { text = "Sadhguru" }
 
+[project.urls]
+Homepage = "https://github.com/shubhampooch/work"
+Issues = "https://github.com/shubhampooch/work/issues"
