@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+dependencies = ["Dera Baba"]
+
+[project]
+name = "Dera Baba"
+version = "1.0"
+description = "Python Package for opening work portal from terminal"
+authors = [{ name = "Shubham", email = "shubhampooch@gmail.com" }]
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "Sadhguru" }
+
