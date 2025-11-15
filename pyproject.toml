@@ -1,10 +1,10 @@
 [build-system]
 requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
-dependencies = ["Dera Baba"]
+dependencies = ["dera-baba"]
 
 [project]
-name = "Dera Baba"
+name = "dera-baba"
 version = "1.0"
 description = "Python Package for opening work portal from terminal/cmd"
 authors = [{ name = "Shubham", email = "shubhampooch@gmail.com" }]
@@ -15,4 +15,5 @@ license = { text = "Sadhguru" }
 [project.urls]
 Homepage = "https://github.com/shubhampooch/work"
 Issues = "https://github.com/shubhampooch/work/issues"
+
 
