@@ -6,7 +6,7 @@ dependencies = ["Dera Baba"]
 [project]
 name = "Dera Baba"
 version = "1.0"
-description = "Python Package for opening work portal from terminal"
+description = "Python Package for opening work portal from terminal/cmd"
 authors = [{ name = "Shubham", email = "shubhampooch@gmail.com" }]
 readme = "README.md"
 requires-python = ">=3.8"
@@ -15,3 +15,4 @@ license = { text = "Sadhguru" }
 [project.urls]
 Homepage = "https://github.com/shubhampooch/work"
 Issues = "https://github.com/shubhampooch/work/issues"
+
