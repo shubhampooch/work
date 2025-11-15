@@ -1,1 +1,1 @@
-Using of this repository is strictly prohibited.
+Using of this repository is open.
